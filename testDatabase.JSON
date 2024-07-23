@@ -2,12 +2,12 @@
     "products": [
         {
             "productID": 1,
-            "name": "item number 1",
+            "name": "Regular T-shirt",
             "price": 100
         },
         {
             "productID": 2,
-            "name": "item number 2",
+            "name": "Regular Jumper",
             "price": 200
         }
     ]
