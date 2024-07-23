@@ -9,6 +9,11 @@
             "productID": 2,
             "name": "Regular Jumper",
             "price": 200
+        },
+        {
+            "productID": 3,
+            "name": "Regular Hoodie",
+            "price": 300
         }
     ]
 }
